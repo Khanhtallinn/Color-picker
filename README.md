@@ -13,6 +13,6 @@ If you are developing a production application, we recommend using TypeScript wi
 ```
 $ git clone https://github.com/Khanhtallinn/delta
 $ cd delta
-$ pnpm install
-$ pnpm run dev
+$ yarn
+$ yarn dev
 ```
